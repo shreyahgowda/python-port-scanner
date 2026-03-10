@@ -35,7 +35,9 @@ Port scanning is a common technique used in **cybersecurity and penetration test
 Scanning target: scanme.nmap.org
 
 Port 22 OPEN (ssh)
+
 Port 80 OPEN (http)
+
 Port 443 OPEN (https)
 
 Scan completed
